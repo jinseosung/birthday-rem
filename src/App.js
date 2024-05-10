@@ -16,7 +16,6 @@ const router = createBrowserRouter([
   },
   { path: `/quizthx`, element: <QuizThx /> },
   { path: `/result`, element: <QuizResult /> },
-  { path: `/admin`, element: <Home /> },
 ]);
 
 function App() {
