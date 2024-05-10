@@ -1,0 +1,14 @@
+.btnTransparent {
+    padding: 1.7rem;
+    border-radius: 30px;
+    font-size: 1.4rem;
+    width: 100%;
+    cursor: pointer;
+    color: black;
+    @include transparent-board(solid 2px rgba(182, 182, 201, 0.3));
+    animation: fade-in-out 0.9s ease-in-out;
+  
+    span {
+      font-size: 0.9rem;
+    }
+  }

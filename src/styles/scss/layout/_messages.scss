@@ -1,0 +1,22 @@
+$font-size: 1.1rem;
+
+.messasges {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 1.2rem;
+
+  .messages__link {
+    text-align: end;
+
+    .messages__btn {
+      display: inline-block;
+      text-align: center;
+      font-size: $font-size;
+      padding: 0.5rem 0.7rem;
+      border-radius: 15px;
+      color: #ffffff;
+    }
+  }
+}

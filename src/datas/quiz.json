@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Quel est mon jour de naissance ?",
+    "answer": ["7 mai", "9 mai", "11 mai", "12 mai"],
+    "correctAnswer": "7 mai"
+  },
+  {
+    "question": "Et à quelle heure je suis né ?",
+    "answer": [
+      "3h35, l'heure de clubber",
+      "8h30, l'heure du travail",
+      "13h30, l'heure du café",
+      "19h10, l'heure de l'apéro"
+    ],
+    "correctAnswer": "13h30, l'heure du café"
+  },
+  {
+    "question": "Quelle est ma taille ?",
+    "answer": ["1,77m", "1,75m", "1,81m", "1,84m"],
+    "correctAnswer": "1,81m"
+  },
+  {
+    "question": "Quelle est mon équipe préféré de rugby ?",
+    "answer": ["Paris", "Brive (Allez Brive!)", "Toulouse", "Clermont"],
+    "correctAnswer": "Brive (Allez Brive!)"
+  },
+  {
+    "question": "Quel est mon style de bière préféré ?",
+    "answer": ["IPA", "Sour", "Stout", "Pils"],
+    "correctAnswer": "IPA"
+  },
+  {
+    "question": "Quel est mon restaurant préféré ?",
+    "answer": ["Flunch", "Flam's", "Ippudo", "Hoki Sushi"],
+    "correctAnswer": "Hoki Sushi"
+  },
+  {
+    "question": "Quel sport ai-je fait durant ma jeunesse ?",
+    "answer": ["Rugby", "Aviron", "Basketball", "Judo"],
+    "correctAnswer": "Aviron"
+  },
+  {
+    "question": "Dans quelle ville ai je fait ma pépa ?",
+    "answer": ["Limoges", "Toulouse", "Clermont", "Tulle"],
+    "correctAnswer": "Tulle"
+  },
+  {
+    "question": "Sur quel dessin animé je n'ai PAS travaillé ?",
+    "answer": ["Ninjago", "Lapins Crétins", "Oui Oui", "Oscar et Malika"],
+    "correctAnswer": "Ninjago"
+  },
+  {
+    "question": "Quelle est ma ville préféré d'Europe ?",
+    "answer": ["Londres", "Barcelone", "Budapest", "Bruxelles"],
+    "correctAnswer": "Budapest"
+  },
+  {
+    "question": "De quel boit de nuit je suis banni à vie ?",
+    "answer": [
+      "La Charrette de Brive",
+      "Le Badaboum à Paris",
+      "Le Rancho à Royan",
+      "Le Pacha de Barcelone"
+    ],
+    "correctAnswer": "Le Rancho à Royan"
+  },
+  {
+    "question": "Quelle grosse blessure je me suis faite à l'école' ?",
+    "answer": [
+      "Se casser un coccyx",
+      "Manger une abeille",
+      "Poignardé par un prof",
+      "Couper la lèvre en deux"
+    ],
+    "correctAnswer": "Couper la lèvre en deux"
+  },
+  {
+    "question": "Je suis au McDo, je commande quoi systématiquement ?",
+    "answer": [
+      "Happy Meal",
+      "Menu Maxi Best Of 280",
+      "McFlurry Daim",
+      "Un Croque Mcdo"
+    ],
+    "correctAnswer": "Happy Meal"
+  },
+  {
+    "question": "Quel nom d'animal je n'ai PAS eu ?",
+    "answer": ["Vanille", "Danette", "Danonino", "Thierry"],
+    "correctAnswer": "Danonino"
+  },
+  {
+    "question": "Quelle est ma plus grande qulité ?",
+    "answer": ["Marrant", "Humble", "Adorable", "Toutes les propositions"],
+    "correctAnswer": "Toutes les propositions"
+  }
+]

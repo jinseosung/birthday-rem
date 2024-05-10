@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  max-width: 767px;
+  margin: 0 auto;
+  background-color: #010101;
+  height: 100vh;
+  background-image: url("/public/images/fond_quizz.jpg");
+  background-size: 767px;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
+}
