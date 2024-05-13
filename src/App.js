@@ -6,6 +6,7 @@ import QuizMain from "./pages/QuizMain";
 import Quiz from "./pages/Quiz";
 import QuizThx from "./pages/QuizThx";
 import QuizResult from "./pages/QuizResult";
+import Admin from "./pages/Admin";
 
 const router = createBrowserRouter([
   { path: `/`, element: <Home /> },
@@ -16,6 +17,7 @@ const router = createBrowserRouter([
   },
   { path: `/quizthx`, element: <QuizThx /> },
   { path: `/result`, element: <QuizResult /> },
+  { path: `/admin`, element: <Admin /> },
 ]);
 
 function App() {

@@ -451,6 +451,35 @@ body {
     margin-top: 0;
   }
 }
+.result-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.result-input {
+  border: none;
+  border-radius: 15px;
+  padding: 0.7rem 1rem;
+  outline: none;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.result-ul {
+  list-style: none;
+  padding-left: 0;
+  font-size: 1.2rem;
+}
+
+.result-name {
+  width: 100%;
+}
+
 .btnTransparent {
   padding: 1.7rem;
   border-radius: 30px;

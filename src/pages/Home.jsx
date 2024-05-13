@@ -5,6 +5,7 @@ const Home = () => {
   const homeBtnList = [
     { to: `/quizmain`, prop: ["Quizz 🔍", "(une participation par personne)"] },
     { to: `/result`, prop: ["Trophée 🏆"] },
+    { to: `/admin`, prop: ["Résultat 📝"] },
   ];
 
   return (
