@@ -461,7 +461,7 @@ body {
 .result-input {
   border: none;
   border-radius: 15px;
-  padding: 0.7rem 1rem;
+  padding: 1rem;
   outline: none;
 }
 
@@ -478,6 +478,10 @@ body {
 
 .result-name {
   width: 100%;
+}
+
+.incorrect-answer {
+  color: #c05b79;
 }
 
 .btnTransparent {
